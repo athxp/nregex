@@ -1,5 +1,6 @@
 # nregex
-Naive Regular Expression Matching
+Naip Regular Expression Matching
 
-- [Ref 1](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
-- [Ref 2](https://swtch.com/~rsc/regexp/regexp1.html)
+Nyocokke regular expression manut teorine Pak Ken Thompson.
+- [Paper'e Pak Thompson](https://dl.acm.org/citation.cfm?doid=363347.363387)
+- [Pawulang](https://swtch.com/~rsc/regexp/regexp1.html)
